@@ -11,7 +11,7 @@ function sortear(){
         sorteados.push(numero);
     }
     alert(sorteados);
-    alert("deu certo")
+
 }
 
 function obiterNumeroAliatorio(min, max) {
