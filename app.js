@@ -11,7 +11,6 @@ function sortear(){
         sorteados.push(numero);
     }
     alert(sorteados);
-    alert("teste")
 
 }
 
